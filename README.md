@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Programação de sistemas e projetos 
 - 📫 How to reach me instagran@jeferson_ram0s
 - 😄 Pronouns: Jef-ramos
-- ⚡ Fun fact: Tecnologias html ,css, js , jason, phyton, react, MsyQl, c++ etc..
+- ⚡ Fun fact: Tecnologias html ,css, js , jason, Phyton, react, MsyQl, c++ etc..
 
 <!---
 Jeferson-Ramos/Jeferson-Ramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
