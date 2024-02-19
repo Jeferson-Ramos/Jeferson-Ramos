@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jeferson-Ramos
 - 👀 I’m interested in Tecnologia
 - 🌱 I’m currently learning Analise e desenvolvimento de sistemas
-- 💞️ I’m looking to collaborate on Tecnologia Programação
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Programação de sistemas e projetos 
+- 📫 How to reach me instagran@jeferson_ram0s
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
